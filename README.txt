@@ -61,12 +61,6 @@ METHODOLOGICAL INFORMATION
 	Thomas J. Yamashita, Kevin W. Ryer, David B. Wester, Jason V. Lombardi
 
 
-DATA SPECIFIC INFORMATION FOR: Classification_20230629.zip
-1. Data Type: Zip file containing a geotiff
-
-5. Other Information: This zip file contains the classified map used in this study. Classes and methods for creation are discussed in the manuscript
-
-
 DATA SPECIFIC INFORMATION FOR: LandscapeMetrics_20230629.xlsx
 1. Data Type: Microsoft Excel File
 
