@@ -37,15 +37,17 @@ GENERAL INFORMATION
 DATA & FILE OVERVIEW
 
 1. File List: 
-	Classification_20230629.zip: A zipped geotiff file containing the classified landcover map described in the manuscript
 	LandscapeMetrics_20230629.xlsx: An excel file with the landscape metrics in a 1 km buff around each wildlife crossing and random site
 	LandscapeStructureBobcats_R.R: R code used to produce figures and analyze data for the manuscript. This code will not function without the bobcat detection data. Please contact the corresponding author to request bobcat detection data. 
 	LandscapeStructureBobcats_SAS.sas: SAS code used to analyze data for the manuscript. This code will not function without the bobcat detection data. Please contact the corresponding author to request bobcat detection data. 
 	README.txt: This file
 
 2. Relationship between files: 
-	Only one data file is provided in this repository. For bobcat detection data, please contact the corresponding author. 
+	Only one data file is provided in this repository.  
 
+3. Excluded files from repository: 
+	Classified Landcover map: Classified landcover map is available upon request. Please contact the corresponding author. 
+	Bobcat detection data: Bobcat detection data is available upon request. Please contact the corresponding author. 
 
 METHODOLOGICAL INFORMATION
 
